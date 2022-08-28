@@ -1,9 +1,9 @@
 ![alt text](code127.png?raw=true "logo Code 127")
 ### EXIT CODE 127 : command not found ==>  🤔 remains to code it ! 🔭
 
-# [Luhn formula](https://github.com/code-127/luhn-formula)
-[![Python package](https://github.com/code-127/luhn-formula/actions/workflows/python-package.yml/badge.svg)](https://github.com/code-127/luhn-formula/actions/workflows/python-package.yml)
-[![Upload Python Package](https://github.com/code-127/luhn-formula/actions/workflows/python-publish.yml/badge.svg)](https://github.com/code-127/luhn-formula/actions/workflows/python-publish.yml)
+# [Luhn formula Python](https://github.com/code-127/luhn-formula-py)
+[![Python package](https://github.com/code-127/luhn-formula-py/actions/workflows/python-package.yml/badge.svg)](https://github.com/code-127/luhn-formula-py/actions/workflows/python-package.yml)
+[![Upload Python Package](https://github.com/code-127/luhn-formula-py/actions/workflows/python-publish.yml/badge.svg)](https://github.com/code-127/luhn-formula-py/actions/workflows/python-publish.yml)
 
 Another python package of number validator and check digit generator based on Luhn's formula 😉. Luhn's formula was designed to protect against accidental input errors.
 
